@@ -1,0 +1,5 @@
+*.pyc
+dyfo/scripts/expert_server/error_logs/
+lang-segment-anything/
+playground/
+requirements_bak.txt

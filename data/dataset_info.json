@@ -1,0 +1,89 @@
+{
+  "VQA_FloodNet_negated": {
+    "file_name": "FloodNet/by_type/Yes_No_no_inst.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images",
+      "question_id": "question_id"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+   "VQA_FloodNet_sub_negated": {
+    "file_name": "FloodNet/by_type/Yes_No_instruct_sub.jsonl",
+    "formatting": "sub_samples",
+    "columns": {
+      "question_id": "question_id",
+      "sub_samples": "sub_samples"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user", 
+      "assistant_tag": "assistant"
+    }
+  },
+  "VQA_Merged_negated": {
+    "file_name": "VQA_Merged/merged_vqa_tlm.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images",
+      "question_id": "question_id"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+   "VQA_Merged_sub_negated": {
+    "file_name": "VQA_Merged/merged_vqa_tlm_sub.jsonl",
+    "formatting": "sub_samples",
+    "columns": {
+      "question_id": "question_id",
+      "sub_samples": "sub_samples"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user", 
+      "assistant_tag": "assistant"
+    }
+  },
+  "MCQ_Merged_negated": {
+    "file_name": "MCQ_Merged/merged_caption_negated_llava_format.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images",
+      "question_id": "question_id"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+   "MCQ_Merged_sub_negated": {
+    "file_name": "MCQ_Merged/sub_merged_caption_negated_llava_format.jsonl",
+    "formatting": "sub_samples",
+    "columns": {
+      "question_id": "question_id",
+      "sub_samples": "sub_samples"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user", 
+      "assistant_tag": "assistant"
+    }
+  }
+}

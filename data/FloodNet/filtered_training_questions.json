@@ -1,0 +1,6224 @@
+{
+    "3": {
+        "Image_ID": "10168.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "7": {
+        "Image_ID": "10170.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "9": {
+        "Image_ID": "10170.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "14": {
+        "Image_ID": "10171.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "17": {
+        "Image_ID": "10172.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 7,
+        "Question_Type": "Complex_Counting"
+    },
+    "21": {
+        "Image_ID": "10175.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "24": {
+        "Image_ID": "10175.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "27": {
+        "Image_ID": "10176.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "34": {
+        "Image_ID": "10181.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "42": {
+        "Image_ID": "10184.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "46": {
+        "Image_ID": "10300.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "48": {
+        "Image_ID": "10566.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "54": {
+        "Image_ID": "10806.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "55": {
+        "Image_ID": "10806.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "61": {
+        "Image_ID": "10810.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "64": {
+        "Image_ID": "10811.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "67": {
+        "Image_ID": "10811.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "70": {
+        "Image_ID": "10817.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "71": {
+        "Image_ID": "10817.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "76": {
+        "Image_ID": "10818.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "77": {
+        "Image_ID": "10818.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "85": {
+        "Image_ID": "10825.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "95": {
+        "Image_ID": "10840.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "98": {
+        "Image_ID": "10841.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "102": {
+        "Image_ID": "6279.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "119": {
+        "Image_ID": "6340.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "124": {
+        "Image_ID": "6341.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "129": {
+        "Image_ID": "6346.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "135": {
+        "Image_ID": "6348.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "137": {
+        "Image_ID": "6350.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "144": {
+        "Image_ID": "6352.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "146": {
+        "Image_ID": "6354.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "151": {
+        "Image_ID": "6358.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "153": {
+        "Image_ID": "6359.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "159": {
+        "Image_ID": "6361.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "166": {
+        "Image_ID": "6364.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "167": {
+        "Image_ID": "6365.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "172": {
+        "Image_ID": "6367.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "173": {
+        "Image_ID": "6368.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "181": {
+        "Image_ID": "6370.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "189": {
+        "Image_ID": "6374.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "194": {
+        "Image_ID": "6376.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "198": {
+        "Image_ID": "6379.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "203": {
+        "Image_ID": "6384.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "214": {
+        "Image_ID": "6387.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "218": {
+        "Image_ID": "6393.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "221": {
+        "Image_ID": "6395.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "226": {
+        "Image_ID": "6397.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "231": {
+        "Image_ID": "6399.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "235": {
+        "Image_ID": "6402.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "252": {
+        "Image_ID": "6411.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "253": {
+        "Image_ID": "6411.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "259": {
+        "Image_ID": "6413.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "262": {
+        "Image_ID": "6414.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "265": {
+        "Image_ID": "6414.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "269": {
+        "Image_ID": "6415.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "270": {
+        "Image_ID": "6415.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "272": {
+        "Image_ID": "6416.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "275": {
+        "Image_ID": "6416.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "276": {
+        "Image_ID": "6421.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "284": {
+        "Image_ID": "6422.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "288": {
+        "Image_ID": "6424.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "291": {
+        "Image_ID": "6426.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "299": {
+        "Image_ID": "6427.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "300": {
+        "Image_ID": "6427.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "302": {
+        "Image_ID": "6430.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "308": {
+        "Image_ID": "6431.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "313": {
+        "Image_ID": "6433.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "318": {
+        "Image_ID": "6435.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "322": {
+        "Image_ID": "6437.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "327": {
+        "Image_ID": "6438.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "329": {
+        "Image_ID": "6442.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "334": {
+        "Image_ID": "6443.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "337": {
+        "Image_ID": "6444.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "340": {
+        "Image_ID": "6446.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "343": {
+        "Image_ID": "6447.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "346": {
+        "Image_ID": "6450.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "347": {
+        "Image_ID": "6451.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "352": {
+        "Image_ID": "6453.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "353": {
+        "Image_ID": "6454.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "357": {
+        "Image_ID": "6455.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "360": {
+        "Image_ID": "6456.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "362": {
+        "Image_ID": "6456.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "366": {
+        "Image_ID": "6457.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "368": {
+        "Image_ID": "6457.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "373": {
+        "Image_ID": "6458.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "376": {
+        "Image_ID": "6459.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "378": {
+        "Image_ID": "6459.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "379": {
+        "Image_ID": "6460.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "380": {
+        "Image_ID": "6460.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "385": {
+        "Image_ID": "6461.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "388": {
+        "Image_ID": "6462.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "392": {
+        "Image_ID": "6463.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "393": {
+        "Image_ID": "6464.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 7,
+        "Question_Type": "Complex_Counting"
+    },
+    "396": {
+        "Image_ID": "6465.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "399": {
+        "Image_ID": "6466.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 7,
+        "Question_Type": "Complex_Counting"
+    },
+    "407": {
+        "Image_ID": "6469.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "411": {
+        "Image_ID": "6481.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "412": {
+        "Image_ID": "6481.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "416": {
+        "Image_ID": "6484.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "424": {
+        "Image_ID": "6492.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "427": {
+        "Image_ID": "6496.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "432": {
+        "Image_ID": "6501.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "433": {
+        "Image_ID": "6504.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "436": {
+        "Image_ID": "6505.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "440": {
+        "Image_ID": "6506.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "444": {
+        "Image_ID": "6509.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "446": {
+        "Image_ID": "6510.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "450": {
+        "Image_ID": "6512.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "452": {
+        "Image_ID": "6513.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "456": {
+        "Image_ID": "6516.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "457": {
+        "Image_ID": "6520.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "460": {
+        "Image_ID": "6523.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "464": {
+        "Image_ID": "6525.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "468": {
+        "Image_ID": "6526.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "471": {
+        "Image_ID": "6527.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "474": {
+        "Image_ID": "6528.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "477": {
+        "Image_ID": "6530.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "482": {
+        "Image_ID": "6531.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "483": {
+        "Image_ID": "6533.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "489": {
+        "Image_ID": "6534.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "490": {
+        "Image_ID": "6534.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "493": {
+        "Image_ID": "6535.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "495": {
+        "Image_ID": "6535.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "498": {
+        "Image_ID": "6537.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "506": {
+        "Image_ID": "6544.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "509": {
+        "Image_ID": "6546.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "511": {
+        "Image_ID": "6549.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "514": {
+        "Image_ID": "6552.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "519": {
+        "Image_ID": "6555.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "522": {
+        "Image_ID": "6556.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "526": {
+        "Image_ID": "6559.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "529": {
+        "Image_ID": "6560.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "532": {
+        "Image_ID": "6560.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "534": {
+        "Image_ID": "6563.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "537": {
+        "Image_ID": "6563.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "538": {
+        "Image_ID": "6564.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "539": {
+        "Image_ID": "6564.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "545": {
+        "Image_ID": "6565.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "546": {
+        "Image_ID": "6565.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "550": {
+        "Image_ID": "6566.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "553": {
+        "Image_ID": "6569.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "576": {
+        "Image_ID": "6601.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "580": {
+        "Image_ID": "6603.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "583": {
+        "Image_ID": "6608.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "585": {
+        "Image_ID": "6610.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "588": {
+        "Image_ID": "6613.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "591": {
+        "Image_ID": "6614.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "598": {
+        "Image_ID": "6616.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "605": {
+        "Image_ID": "6620.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "606": {
+        "Image_ID": "6622.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "610": {
+        "Image_ID": "6623.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "614": {
+        "Image_ID": "6625.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "615": {
+        "Image_ID": "6627.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "617": {
+        "Image_ID": "6627.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "621": {
+        "Image_ID": "6628.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "622": {
+        "Image_ID": "6628.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "626": {
+        "Image_ID": "6633.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "630": {
+        "Image_ID": "6639.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "632": {
+        "Image_ID": "6639.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "635": {
+        "Image_ID": "6640.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "639": {
+        "Image_ID": "6643.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "641": {
+        "Image_ID": "6643.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "644": {
+        "Image_ID": "6644.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "646": {
+        "Image_ID": "6644.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "650": {
+        "Image_ID": "6645.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "652": {
+        "Image_ID": "6645.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "654": {
+        "Image_ID": "6646.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "660": {
+        "Image_ID": "6647.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "663": {
+        "Image_ID": "6647.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "665": {
+        "Image_ID": "6648.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "666": {
+        "Image_ID": "6648.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "675": {
+        "Image_ID": "6651.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "677": {
+        "Image_ID": "6652.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "678": {
+        "Image_ID": "6652.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "683": {
+        "Image_ID": "6654.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "684": {
+        "Image_ID": "6654.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "688": {
+        "Image_ID": "6655.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "694": {
+        "Image_ID": "6656.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "701": {
+        "Image_ID": "6657.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "703": {
+        "Image_ID": "6658.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "706": {
+        "Image_ID": "6658.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "710": {
+        "Image_ID": "6660.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "711": {
+        "Image_ID": "6660.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "714": {
+        "Image_ID": "6662.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "717": {
+        "Image_ID": "6664.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "723": {
+        "Image_ID": "6670.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "728": {
+        "Image_ID": "6673.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "731": {
+        "Image_ID": "6678.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "745": {
+        "Image_ID": "6692.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "746": {
+        "Image_ID": "6692.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "749": {
+        "Image_ID": "6693.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "753": {
+        "Image_ID": "6693.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "756": {
+        "Image_ID": "6701.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "758": {
+        "Image_ID": "6701.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "762": {
+        "Image_ID": "6703.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 14,
+        "Question_Type": "Complex_Counting"
+    },
+    "769": {
+        "Image_ID": "6704.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 9,
+        "Question_Type": "Complex_Counting"
+    },
+    "774": {
+        "Image_ID": "6706.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "775": {
+        "Image_ID": "6706.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 14,
+        "Question_Type": "Complex_Counting"
+    },
+    "778": {
+        "Image_ID": "6707.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 13,
+        "Question_Type": "Complex_Counting"
+    },
+    "783": {
+        "Image_ID": "6708.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "784": {
+        "Image_ID": "6708.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 13,
+        "Question_Type": "Complex_Counting"
+    },
+    "789": {
+        "Image_ID": "6710.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "792": {
+        "Image_ID": "6710.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "799": {
+        "Image_ID": "6711.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "803": {
+        "Image_ID": "6712.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "805": {
+        "Image_ID": "6712.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "807": {
+        "Image_ID": "6713.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "810": {
+        "Image_ID": "6713.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "812": {
+        "Image_ID": "6714.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "813": {
+        "Image_ID": "6714.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "819": {
+        "Image_ID": "6715.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "823": {
+        "Image_ID": "6715.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "829": {
+        "Image_ID": "6719.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "833": {
+        "Image_ID": "6719.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "836": {
+        "Image_ID": "6727.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "839": {
+        "Image_ID": "6728.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "841": {
+        "Image_ID": "6731.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "844": {
+        "Image_ID": "6732.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "846": {
+        "Image_ID": "6734.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "851": {
+        "Image_ID": "6735.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "854": {
+        "Image_ID": "6736.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "857": {
+        "Image_ID": "6737.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "859": {
+        "Image_ID": "6738.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "862": {
+        "Image_ID": "6739.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "864": {
+        "Image_ID": "6742.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "868": {
+        "Image_ID": "6743.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "872": {
+        "Image_ID": "6745.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "873": {
+        "Image_ID": "6746.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "876": {
+        "Image_ID": "6747.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "882": {
+        "Image_ID": "6748.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "885": {
+        "Image_ID": "6749.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "889": {
+        "Image_ID": "6750.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "890": {
+        "Image_ID": "6750.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "893": {
+        "Image_ID": "6754.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "896": {
+        "Image_ID": "6754.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "898": {
+        "Image_ID": "6755.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "900": {
+        "Image_ID": "6756.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "905": {
+        "Image_ID": "6760.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "907": {
+        "Image_ID": "6762.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "908": {
+        "Image_ID": "6762.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "914": {
+        "Image_ID": "6764.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 7,
+        "Question_Type": "Complex_Counting"
+    },
+    "921": {
+        "Image_ID": "6770.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 8,
+        "Question_Type": "Complex_Counting"
+    },
+    "928": {
+        "Image_ID": "6772.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 8,
+        "Question_Type": "Complex_Counting"
+    },
+    "929": {
+        "Image_ID": "6773.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "930": {
+        "Image_ID": "6773.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "934": {
+        "Image_ID": "6776.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "936": {
+        "Image_ID": "6776.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "941": {
+        "Image_ID": "6779.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "945": {
+        "Image_ID": "6783.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "947": {
+        "Image_ID": "6787.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 7,
+        "Question_Type": "Complex_Counting"
+    },
+    "950": {
+        "Image_ID": "6787.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "953": {
+        "Image_ID": "6788.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "959": {
+        "Image_ID": "6789.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "961": {
+        "Image_ID": "6789.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "965": {
+        "Image_ID": "6790.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 7,
+        "Question_Type": "Complex_Counting"
+    },
+    "967": {
+        "Image_ID": "6792.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 8,
+        "Question_Type": "Complex_Counting"
+    },
+    "973": {
+        "Image_ID": "6793.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 8,
+        "Question_Type": "Complex_Counting"
+    },
+    "974": {
+        "Image_ID": "6793.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "977": {
+        "Image_ID": "6797.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "980": {
+        "Image_ID": "6797.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "982": {
+        "Image_ID": "6798.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "986": {
+        "Image_ID": "6798.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "991": {
+        "Image_ID": "6799.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "995": {
+        "Image_ID": "6800.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "998": {
+        "Image_ID": "6802.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "999": {
+        "Image_ID": "6802.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1003": {
+        "Image_ID": "6803.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1010": {
+        "Image_ID": "6804.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1015": {
+        "Image_ID": "6805.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1016": {
+        "Image_ID": "6805.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1017": {
+        "Image_ID": "6806.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1024": {
+        "Image_ID": "6807.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1026": {
+        "Image_ID": "6807.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1027": {
+        "Image_ID": "6808.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1034": {
+        "Image_ID": "6813.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1036": {
+        "Image_ID": "6814.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1042": {
+        "Image_ID": "6818.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1046": {
+        "Image_ID": "6819.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1048": {
+        "Image_ID": "6820.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1056": {
+        "Image_ID": "6824.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1057": {
+        "Image_ID": "6824.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1060": {
+        "Image_ID": "6826.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1062": {
+        "Image_ID": "6826.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1063": {
+        "Image_ID": "6829.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 7,
+        "Question_Type": "Complex_Counting"
+    },
+    "1067": {
+        "Image_ID": "6830.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1070": {
+        "Image_ID": "6830.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 7,
+        "Question_Type": "Complex_Counting"
+    },
+    "1074": {
+        "Image_ID": "6832.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 8,
+        "Question_Type": "Complex_Counting"
+    },
+    "1080": {
+        "Image_ID": "6833.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "1082": {
+        "Image_ID": "6836.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "1090": {
+        "Image_ID": "6838.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "1095": {
+        "Image_ID": "6839.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 8,
+        "Question_Type": "Complex_Counting"
+    },
+    "1100": {
+        "Image_ID": "6842.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "1105": {
+        "Image_ID": "6843.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 7,
+        "Question_Type": "Complex_Counting"
+    },
+    "1108": {
+        "Image_ID": "6846.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1109": {
+        "Image_ID": "6846.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 12,
+        "Question_Type": "Complex_Counting"
+    },
+    "1115": {
+        "Image_ID": "6851.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1116": {
+        "Image_ID": "6851.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1118": {
+        "Image_ID": "6852.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1121": {
+        "Image_ID": "6852.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1124": {
+        "Image_ID": "6853.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1128": {
+        "Image_ID": "6854.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "1130": {
+        "Image_ID": "6854.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1132": {
+        "Image_ID": "6855.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "1137": {
+        "Image_ID": "6857.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "1143": {
+        "Image_ID": "6858.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1149": {
+        "Image_ID": "6859.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1150": {
+        "Image_ID": "6859.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1152": {
+        "Image_ID": "6860.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1153": {
+        "Image_ID": "6860.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1160": {
+        "Image_ID": "6890.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1163": {
+        "Image_ID": "6891.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1167": {
+        "Image_ID": "6899.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1170": {
+        "Image_ID": "6899.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1175": {
+        "Image_ID": "6900.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1177": {
+        "Image_ID": "6901.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1179": {
+        "Image_ID": "6901.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1185": {
+        "Image_ID": "6902.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "1186": {
+        "Image_ID": "6902.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1187": {
+        "Image_ID": "6904.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1188": {
+        "Image_ID": "6904.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1192": {
+        "Image_ID": "6908.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1196": {
+        "Image_ID": "6908.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1198": {
+        "Image_ID": "6909.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1202": {
+        "Image_ID": "6911.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1209": {
+        "Image_ID": "6913.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1212": {
+        "Image_ID": "6914.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1217": {
+        "Image_ID": "6919.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1223": {
+        "Image_ID": "6924.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1226": {
+        "Image_ID": "6926.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1230": {
+        "Image_ID": "6928.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1236": {
+        "Image_ID": "6929.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1243": {
+        "Image_ID": "6930.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1246": {
+        "Image_ID": "6931.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1247": {
+        "Image_ID": "6931.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1252": {
+        "Image_ID": "6933.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1256": {
+        "Image_ID": "6934.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1259": {
+        "Image_ID": "6934.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1264": {
+        "Image_ID": "6935.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1269": {
+        "Image_ID": "6936.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1271": {
+        "Image_ID": "6938.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1278": {
+        "Image_ID": "6939.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1280": {
+        "Image_ID": "6940.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1285": {
+        "Image_ID": "6941.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1287": {
+        "Image_ID": "6941.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1291": {
+        "Image_ID": "6943.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1295": {
+        "Image_ID": "6945.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1298": {
+        "Image_ID": "6945.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1302": {
+        "Image_ID": "6946.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1306": {
+        "Image_ID": "6947.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1310": {
+        "Image_ID": "6953.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1314": {
+        "Image_ID": "6953.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1320": {
+        "Image_ID": "6956.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1322": {
+        "Image_ID": "6957.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1328": {
+        "Image_ID": "6960.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1332": {
+        "Image_ID": "6964.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1334": {
+        "Image_ID": "6965.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1342": {
+        "Image_ID": "6966.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1344": {
+        "Image_ID": "6967.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1352": {
+        "Image_ID": "6968.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1357": {
+        "Image_ID": "6969.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1359": {
+        "Image_ID": "6970.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1367": {
+        "Image_ID": "6971.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1368": {
+        "Image_ID": "6971.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1370": {
+        "Image_ID": "6972.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1376": {
+        "Image_ID": "6974.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1377": {
+        "Image_ID": "6974.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1380": {
+        "Image_ID": "6976.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1385": {
+        "Image_ID": "6978.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1386": {
+        "Image_ID": "6978.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1390": {
+        "Image_ID": "6981.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1394": {
+        "Image_ID": "6982.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1398": {
+        "Image_ID": "6982.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1400": {
+        "Image_ID": "6985.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1401": {
+        "Image_ID": "6985.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1404": {
+        "Image_ID": "6986.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1408": {
+        "Image_ID": "6986.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1413": {
+        "Image_ID": "6994.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1417": {
+        "Image_ID": "6995.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1420": {
+        "Image_ID": "6996.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1424": {
+        "Image_ID": "6997.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1427": {
+        "Image_ID": "6998.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1428": {
+        "Image_ID": "6999.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1433": {
+        "Image_ID": "7006.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1436": {
+        "Image_ID": "7007.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1458": {
+        "Image_ID": "7039.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1461": {
+        "Image_ID": "7043.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1465": {
+        "Image_ID": "7044.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1468": {
+        "Image_ID": "7045.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1472": {
+        "Image_ID": "7046.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1474": {
+        "Image_ID": "7047.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1479": {
+        "Image_ID": "7050.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1484": {
+        "Image_ID": "7051.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1486": {
+        "Image_ID": "7053.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1504": {
+        "Image_ID": "7071.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1510": {
+        "Image_ID": "7073.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1531": {
+        "Image_ID": "7097.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1534": {
+        "Image_ID": "7098.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1539": {
+        "Image_ID": "7100.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1542": {
+        "Image_ID": "7102.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1543": {
+        "Image_ID": "7102.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1550": {
+        "Image_ID": "7103.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1551": {
+        "Image_ID": "7103.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1553": {
+        "Image_ID": "7107.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1558": {
+        "Image_ID": "7108.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1560": {
+        "Image_ID": "7108.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1564": {
+        "Image_ID": "7109.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1568": {
+        "Image_ID": "7110.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1569": {
+        "Image_ID": "7110.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1573": {
+        "Image_ID": "7115.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1575": {
+        "Image_ID": "7115.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1581": {
+        "Image_ID": "7118.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "1583": {
+        "Image_ID": "7121.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1590": {
+        "Image_ID": "7122.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1591": {
+        "Image_ID": "7122.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1593": {
+        "Image_ID": "7123.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1595": {
+        "Image_ID": "7123.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1597": {
+        "Image_ID": "7124.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1601": {
+        "Image_ID": "7124.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1604": {
+        "Image_ID": "7125.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1611": {
+        "Image_ID": "7128.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1619": {
+        "Image_ID": "7132.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1626": {
+        "Image_ID": "7142.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1629": {
+        "Image_ID": "7142.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1631": {
+        "Image_ID": "7144.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1632": {
+        "Image_ID": "7144.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1635": {
+        "Image_ID": "7146.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1643": {
+        "Image_ID": "7147.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1644": {
+        "Image_ID": "7147.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1647": {
+        "Image_ID": "7151.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1651": {
+        "Image_ID": "7156.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1664": {
+        "Image_ID": "7174.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1667": {
+        "Image_ID": "7175.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1674": {
+        "Image_ID": "7177.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1688": {
+        "Image_ID": "7192.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1691": {
+        "Image_ID": "7193.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "1693": {
+        "Image_ID": "7193.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1699": {
+        "Image_ID": "7194.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1704": {
+        "Image_ID": "7195.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1707": {
+        "Image_ID": "7199.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1708": {
+        "Image_ID": "7201.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1710": {
+        "Image_ID": "7201.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1714": {
+        "Image_ID": "7202.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1716": {
+        "Image_ID": "7202.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1720": {
+        "Image_ID": "7205.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1731": {
+        "Image_ID": "7211.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1734": {
+        "Image_ID": "7212.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1744": {
+        "Image_ID": "7222.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1754": {
+        "Image_ID": "7227.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1757": {
+        "Image_ID": "7229.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1760": {
+        "Image_ID": "7230.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1761": {
+        "Image_ID": "7230.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1767": {
+        "Image_ID": "7235.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1773": {
+        "Image_ID": "7236.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1775": {
+        "Image_ID": "7238.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1776": {
+        "Image_ID": "7238.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1779": {
+        "Image_ID": "7239.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "1782": {
+        "Image_ID": "7239.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1783": {
+        "Image_ID": "7239.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 12,
+        "Question_Type": "Complex_Counting"
+    },
+    "1786": {
+        "Image_ID": "7240.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "1789": {
+        "Image_ID": "7240.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 13,
+        "Question_Type": "Complex_Counting"
+    },
+    "1792": {
+        "Image_ID": "7242.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 13,
+        "Question_Type": "Complex_Counting"
+    },
+    "1793": {
+        "Image_ID": "7242.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "1797": {
+        "Image_ID": "7243.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "1799": {
+        "Image_ID": "7243.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 16,
+        "Question_Type": "Complex_Counting"
+    },
+    "1800": {
+        "Image_ID": "7244.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 15,
+        "Question_Type": "Complex_Counting"
+    },
+    "1806": {
+        "Image_ID": "7245.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 16,
+        "Question_Type": "Complex_Counting"
+    },
+    "1810": {
+        "Image_ID": "7247.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "1815": {
+        "Image_ID": "7251.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "1823": {
+        "Image_ID": "7252.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 21,
+        "Question_Type": "Complex_Counting"
+    },
+    "1833": {
+        "Image_ID": "7257.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "1838": {
+        "Image_ID": "7258.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1845": {
+        "Image_ID": "7261.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "1853": {
+        "Image_ID": "7264.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 14,
+        "Question_Type": "Complex_Counting"
+    },
+    "1860": {
+        "Image_ID": "7265.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "1865": {
+        "Image_ID": "7266.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1867": {
+        "Image_ID": "7267.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1872": {
+        "Image_ID": "7270.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 8,
+        "Question_Type": "Complex_Counting"
+    },
+    "1874": {
+        "Image_ID": "7271.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1881": {
+        "Image_ID": "7272.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "1882": {
+        "Image_ID": "7272.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1886": {
+        "Image_ID": "7273.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1889": {
+        "Image_ID": "7273.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1891": {
+        "Image_ID": "7273.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "1894": {
+        "Image_ID": "7278.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "1897": {
+        "Image_ID": "7278.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1902": {
+        "Image_ID": "7282.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1906": {
+        "Image_ID": "7285.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1907": {
+        "Image_ID": "7285.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1908": {
+        "Image_ID": "7285.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "1915": {
+        "Image_ID": "7288.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "1917": {
+        "Image_ID": "7288.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1922": {
+        "Image_ID": "7289.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "1923": {
+        "Image_ID": "7289.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1927": {
+        "Image_ID": "7290.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "1932": {
+        "Image_ID": "7292.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1935": {
+        "Image_ID": "7293.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1942": {
+        "Image_ID": "7298.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "1943": {
+        "Image_ID": "7298.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 16,
+        "Question_Type": "Complex_Counting"
+    },
+    "1945": {
+        "Image_ID": "7298.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "1947": {
+        "Image_ID": "7299.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 13,
+        "Question_Type": "Complex_Counting"
+    },
+    "1955": {
+        "Image_ID": "7304.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 13,
+        "Question_Type": "Complex_Counting"
+    },
+    "1958": {
+        "Image_ID": "7305.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 8,
+        "Question_Type": "Complex_Counting"
+    },
+    "1964": {
+        "Image_ID": "7306.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 7,
+        "Question_Type": "Complex_Counting"
+    },
+    "1965": {
+        "Image_ID": "7306.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 9,
+        "Question_Type": "Complex_Counting"
+    },
+    "1970": {
+        "Image_ID": "7310.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "1976": {
+        "Image_ID": "7311.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 13,
+        "Question_Type": "Complex_Counting"
+    },
+    "1977": {
+        "Image_ID": "7311.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "1978": {
+        "Image_ID": "7311.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "1982": {
+        "Image_ID": "7312.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 8,
+        "Question_Type": "Complex_Counting"
+    },
+    "1985": {
+        "Image_ID": "7312.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "1987": {
+        "Image_ID": "7313.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 7,
+        "Question_Type": "Complex_Counting"
+    },
+    "1988": {
+        "Image_ID": "7313.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 8,
+        "Question_Type": "Complex_Counting"
+    },
+    "1998": {
+        "Image_ID": "7316.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 14,
+        "Question_Type": "Complex_Counting"
+    },
+    "1999": {
+        "Image_ID": "7316.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2001": {
+        "Image_ID": "7316.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "2004": {
+        "Image_ID": "7317.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "2005": {
+        "Image_ID": "7317.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 14,
+        "Question_Type": "Complex_Counting"
+    },
+    "2012": {
+        "Image_ID": "7318.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 18,
+        "Question_Type": "Complex_Counting"
+    },
+    "2013": {
+        "Image_ID": "7318.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "2025": {
+        "Image_ID": "7321.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "2029": {
+        "Image_ID": "7322.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "2039": {
+        "Image_ID": "7325.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2041": {
+        "Image_ID": "7325.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2046": {
+        "Image_ID": "7328.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2047": {
+        "Image_ID": "7328.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 22,
+        "Question_Type": "Complex_Counting"
+    },
+    "2050": {
+        "Image_ID": "7330.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2052": {
+        "Image_ID": "7330.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 23,
+        "Question_Type": "Complex_Counting"
+    },
+    "2054": {
+        "Image_ID": "7331.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "2059": {
+        "Image_ID": "7332.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2060": {
+        "Image_ID": "7332.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2065": {
+        "Image_ID": "7335.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2075": {
+        "Image_ID": "7340.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2079": {
+        "Image_ID": "7340.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 24,
+        "Question_Type": "Complex_Counting"
+    },
+    "2082": {
+        "Image_ID": "7344.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 11,
+        "Question_Type": "Complex_Counting"
+    },
+    "2087": {
+        "Image_ID": "7345.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "2089": {
+        "Image_ID": "7353.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "2094": {
+        "Image_ID": "7354.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2095": {
+        "Image_ID": "7354.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "2099": {
+        "Image_ID": "7356.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2104": {
+        "Image_ID": "7357.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2113": {
+        "Image_ID": "7363.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2118": {
+        "Image_ID": "7364.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 7,
+        "Question_Type": "Complex_Counting"
+    },
+    "2119": {
+        "Image_ID": "7364.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2121": {
+        "Image_ID": "7364.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2125": {
+        "Image_ID": "7366.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 8,
+        "Question_Type": "Complex_Counting"
+    },
+    "2132": {
+        "Image_ID": "7372.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2134": {
+        "Image_ID": "7374.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "2137": {
+        "Image_ID": "7374.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "2138": {
+        "Image_ID": "7374.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2145": {
+        "Image_ID": "7375.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "2148": {
+        "Image_ID": "7377.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2151": {
+        "Image_ID": "7377.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "2153": {
+        "Image_ID": "7405.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "2161": {
+        "Image_ID": "7410.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2165": {
+        "Image_ID": "7411.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2170": {
+        "Image_ID": "7412.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2179": {
+        "Image_ID": "7418.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2180": {
+        "Image_ID": "7418.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2184": {
+        "Image_ID": "7419.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "2193": {
+        "Image_ID": "7422.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 24,
+        "Question_Type": "Complex_Counting"
+    },
+    "2194": {
+        "Image_ID": "7422.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2197": {
+        "Image_ID": "7426.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 21,
+        "Question_Type": "Complex_Counting"
+    },
+    "2203": {
+        "Image_ID": "7427.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 19,
+        "Question_Type": "Complex_Counting"
+    },
+    "2205": {
+        "Image_ID": "7428.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 20,
+        "Question_Type": "Complex_Counting"
+    },
+    "2208": {
+        "Image_ID": "7428.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2220": {
+        "Image_ID": "7434.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2226": {
+        "Image_ID": "7436.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 30,
+        "Question_Type": "Complex_Counting"
+    },
+    "2229": {
+        "Image_ID": "7438.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2235": {
+        "Image_ID": "7439.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 11,
+        "Question_Type": "Complex_Counting"
+    },
+    "2237": {
+        "Image_ID": "7439.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2241": {
+        "Image_ID": "7443.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2244": {
+        "Image_ID": "7445.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "2250": {
+        "Image_ID": "7448.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2252": {
+        "Image_ID": "7449.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2259": {
+        "Image_ID": "7451.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2260": {
+        "Image_ID": "7451.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "2264": {
+        "Image_ID": "7452.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2265": {
+        "Image_ID": "7452.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "2269": {
+        "Image_ID": "7453.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "2280": {
+        "Image_ID": "7458.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "2281": {
+        "Image_ID": "7458.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2282": {
+        "Image_ID": "7459.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "2287": {
+        "Image_ID": "7459.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "2288": {
+        "Image_ID": "7460.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2290": {
+        "Image_ID": "7460.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "2294": {
+        "Image_ID": "7462.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2296": {
+        "Image_ID": "7462.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2303": {
+        "Image_ID": "7463.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "2310": {
+        "Image_ID": "7465.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 13,
+        "Question_Type": "Complex_Counting"
+    },
+    "2315": {
+        "Image_ID": "7466.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2316": {
+        "Image_ID": "7467.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "2323": {
+        "Image_ID": "7469.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 14,
+        "Question_Type": "Complex_Counting"
+    },
+    "2325": {
+        "Image_ID": "7469.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2328": {
+        "Image_ID": "7472.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2332": {
+        "Image_ID": "7472.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2333": {
+        "Image_ID": "7473.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 16,
+        "Question_Type": "Complex_Counting"
+    },
+    "2342": {
+        "Image_ID": "7474.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2345": {
+        "Image_ID": "7475.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2348": {
+        "Image_ID": "7477.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "2355": {
+        "Image_ID": "7481.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "2357": {
+        "Image_ID": "7481.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2363": {
+        "Image_ID": "7485.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2366": {
+        "Image_ID": "7487.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 16,
+        "Question_Type": "Complex_Counting"
+    },
+    "2369": {
+        "Image_ID": "7487.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 7,
+        "Question_Type": "Complex_Counting"
+    },
+    "2376": {
+        "Image_ID": "7489.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2387": {
+        "Image_ID": "7521.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2399": {
+        "Image_ID": "7523.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2402": {
+        "Image_ID": "7524.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2411": {
+        "Image_ID": "7526.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2416": {
+        "Image_ID": "7542.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2422": {
+        "Image_ID": "7545.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 9,
+        "Question_Type": "Complex_Counting"
+    },
+    "2425": {
+        "Image_ID": "7547.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2430": {
+        "Image_ID": "7548.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2433": {
+        "Image_ID": "7552.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2436": {
+        "Image_ID": "7556.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2441": {
+        "Image_ID": "7557.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2450": {
+        "Image_ID": "7559.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2456": {
+        "Image_ID": "7566.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 23,
+        "Question_Type": "Complex_Counting"
+    },
+    "2457": {
+        "Image_ID": "7566.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2468": {
+        "Image_ID": "7568.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "2474": {
+        "Image_ID": "7571.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2475": {
+        "Image_ID": "7571.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 21,
+        "Question_Type": "Complex_Counting"
+    },
+    "2477": {
+        "Image_ID": "7573.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 28,
+        "Question_Type": "Complex_Counting"
+    },
+    "2481": {
+        "Image_ID": "7573.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2492": {
+        "Image_ID": "7579.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 13,
+        "Question_Type": "Complex_Counting"
+    },
+    "2500": {
+        "Image_ID": "7580.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2501": {
+        "Image_ID": "7580.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 16,
+        "Question_Type": "Complex_Counting"
+    },
+    "2510": {
+        "Image_ID": "7585.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 16,
+        "Question_Type": "Complex_Counting"
+    },
+    "2515": {
+        "Image_ID": "7587.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 15,
+        "Question_Type": "Complex_Counting"
+    },
+    "2516": {
+        "Image_ID": "7587.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2524": {
+        "Image_ID": "7594.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "2525": {
+        "Image_ID": "7594.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2531": {
+        "Image_ID": "7596.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "2534": {
+        "Image_ID": "7597.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 13,
+        "Question_Type": "Complex_Counting"
+    },
+    "2536": {
+        "Image_ID": "7597.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2540": {
+        "Image_ID": "7600.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2541": {
+        "Image_ID": "7600.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 15,
+        "Question_Type": "Complex_Counting"
+    },
+    "2542": {
+        "Image_ID": "7600.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 20,
+        "Question_Type": "Complex_Counting"
+    },
+    "2550": {
+        "Image_ID": "7602.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2556": {
+        "Image_ID": "7603.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2563": {
+        "Image_ID": "7606.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2568": {
+        "Image_ID": "7609.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2569": {
+        "Image_ID": "7609.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 18,
+        "Question_Type": "Complex_Counting"
+    },
+    "2573": {
+        "Image_ID": "7612.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 18,
+        "Question_Type": "Complex_Counting"
+    },
+    "2575": {
+        "Image_ID": "7612.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2581": {
+        "Image_ID": "7614.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 13,
+        "Question_Type": "Complex_Counting"
+    },
+    "2584": {
+        "Image_ID": "7641.JPG",
+        "Question": "How many flooded buildings can be seen in this image?",
+        "Ground_Truth": 8,
+        "Question_Type": "Complex_Counting"
+    },
+    "2589": {
+        "Image_ID": "7643.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2594": {
+        "Image_ID": "7645.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2599": {
+        "Image_ID": "7646.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2604": {
+        "Image_ID": "7648.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "2608": {
+        "Image_ID": "7650.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "2611": {
+        "Image_ID": "7650.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2613": {
+        "Image_ID": "7653.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "2617": {
+        "Image_ID": "7654.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "2619": {
+        "Image_ID": "7654.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2623": {
+        "Image_ID": "7655.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "2624": {
+        "Image_ID": "7655.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2629": {
+        "Image_ID": "7659.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2635": {
+        "Image_ID": "7662.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2637": {
+        "Image_ID": "7664.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2641": {
+        "Image_ID": "7665.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2644": {
+        "Image_ID": "7673.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2650": {
+        "Image_ID": "7675.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2659": {
+        "Image_ID": "7677.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "2661": {
+        "Image_ID": "7678.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2663": {
+        "Image_ID": "7678.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "2668": {
+        "Image_ID": "7680.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "2670": {
+        "Image_ID": "7681.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "2675": {
+        "Image_ID": "7682.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "2681": {
+        "Image_ID": "7685.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2682": {
+        "Image_ID": "7685.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2685": {
+        "Image_ID": "7686.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2687": {
+        "Image_ID": "7686.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2692": {
+        "Image_ID": "7688.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2695": {
+        "Image_ID": "7691.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2696": {
+        "Image_ID": "7691.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2700": {
+        "Image_ID": "7692.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2705": {
+        "Image_ID": "7693.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2706": {
+        "Image_ID": "7693.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "No",
+        "Question_Type": "Yes_No"
+    },
+    "2714": {
+        "Image_ID": "7696.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "2716": {
+        "Image_ID": "7697.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "2718": {
+        "Image_ID": "7697.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2721": {
+        "Image_ID": "7700.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2722": {
+        "Image_ID": "7700.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "2726": {
+        "Image_ID": "7702.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "2728": {
+        "Image_ID": "7702.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2730": {
+        "Image_ID": "7703.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2743": {
+        "Image_ID": "7717.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "2746": {
+        "Image_ID": "7718.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "2751": {
+        "Image_ID": "7719.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "2754": {
+        "Image_ID": "7720.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "2757": {
+        "Image_ID": "7721.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "2758": {
+        "Image_ID": "7722.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "2772": {
+        "Image_ID": "7746.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "2775": {
+        "Image_ID": "7748.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2778": {
+        "Image_ID": "7749.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2781": {
+        "Image_ID": "7750.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2782": {
+        "Image_ID": "7750.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2786": {
+        "Image_ID": "7751.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "2793": {
+        "Image_ID": "7752.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2813": {
+        "Image_ID": "7782.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "2815": {
+        "Image_ID": "7783.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "2818": {
+        "Image_ID": "7784.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "2822": {
+        "Image_ID": "7784.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2825": {
+        "Image_ID": "7786.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "2826": {
+        "Image_ID": "7787.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "2830": {
+        "Image_ID": "7788.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "2834": {
+        "Image_ID": "7789.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "2855": {
+        "Image_ID": "7825.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2865": {
+        "Image_ID": "7829.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2883": {
+        "Image_ID": "7855.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "2886": {
+        "Image_ID": "7857.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "2888": {
+        "Image_ID": "7858.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "2892": {
+        "Image_ID": "7859.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "2910": {
+        "Image_ID": "7883.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2915": {
+        "Image_ID": "7884.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2918": {
+        "Image_ID": "7890.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2930": {
+        "Image_ID": "7895.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2942": {
+        "Image_ID": "7905.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2943": {
+        "Image_ID": "7907.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2952": {
+        "Image_ID": "7916.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "2994": {
+        "Image_ID": "7977.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3002": {
+        "Image_ID": "7981.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3005": {
+        "Image_ID": "7982.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3008": {
+        "Image_ID": "7987.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3011": {
+        "Image_ID": "7989.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3022": {
+        "Image_ID": "7999.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3027": {
+        "Image_ID": "8001.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3072": {
+        "Image_ID": "8068.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3075": {
+        "Image_ID": "8070.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3079": {
+        "Image_ID": "8074.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3088": {
+        "Image_ID": "8080.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3092": {
+        "Image_ID": "8081.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3095": {
+        "Image_ID": "8082.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3097": {
+        "Image_ID": "8083.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3108": {
+        "Image_ID": "8087.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3114": {
+        "Image_ID": "8090.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3125": {
+        "Image_ID": "8095.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3127": {
+        "Image_ID": "8096.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3166": {
+        "Image_ID": "8142.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3178": {
+        "Image_ID": "8148.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3180": {
+        "Image_ID": "8149.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3189": {
+        "Image_ID": "8152.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3193": {
+        "Image_ID": "8153.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3195": {
+        "Image_ID": "8157.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3213": {
+        "Image_ID": "8166.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3217": {
+        "Image_ID": "8167.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3218": {
+        "Image_ID": "8168.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3223": {
+        "Image_ID": "8172.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3228": {
+        "Image_ID": "8174.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3230": {
+        "Image_ID": "8175.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3251": {
+        "Image_ID": "8206.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3259": {
+        "Image_ID": "8212.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3276": {
+        "Image_ID": "8232.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3277": {
+        "Image_ID": "8234.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3281": {
+        "Image_ID": "8235.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3300": {
+        "Image_ID": "8255.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3316": {
+        "Image_ID": "8276.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3317": {
+        "Image_ID": "8277.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3324": {
+        "Image_ID": "8280.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3349": {
+        "Image_ID": "8320.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3353": {
+        "Image_ID": "8321.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3357": {
+        "Image_ID": "8322.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3365": {
+        "Image_ID": "8342.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3373": {
+        "Image_ID": "8347.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3376": {
+        "Image_ID": "8347.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3379": {
+        "Image_ID": "8348.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3380": {
+        "Image_ID": "8350.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "3383": {
+        "Image_ID": "8350.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3385": {
+        "Image_ID": "8351.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "3394": {
+        "Image_ID": "8352.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "3395": {
+        "Image_ID": "8354.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3402": {
+        "Image_ID": "8355.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3406": {
+        "Image_ID": "8359.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3414": {
+        "Image_ID": "8366.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3417": {
+        "Image_ID": "8368.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3420": {
+        "Image_ID": "8368.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3422": {
+        "Image_ID": "8369.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3423": {
+        "Image_ID": "8369.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3427": {
+        "Image_ID": "8370.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3432": {
+        "Image_ID": "8371.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3435": {
+        "Image_ID": "8371.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3438": {
+        "Image_ID": "8374.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3439": {
+        "Image_ID": "8374.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3446": {
+        "Image_ID": "8375.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3460": {
+        "Image_ID": "8398.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3462": {
+        "Image_ID": "8398.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3468": {
+        "Image_ID": "8400.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "3471": {
+        "Image_ID": "8403.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "3472": {
+        "Image_ID": "8403.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3479": {
+        "Image_ID": "8404.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "3482": {
+        "Image_ID": "8405.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "3501": {
+        "Image_ID": "8425.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3512": {
+        "Image_ID": "8432.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3516": {
+        "Image_ID": "8433.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3518": {
+        "Image_ID": "8436.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3525": {
+        "Image_ID": "8437.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3528": {
+        "Image_ID": "8438.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3532": {
+        "Image_ID": "8438.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3533": {
+        "Image_ID": "8442.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "3538": {
+        "Image_ID": "8443.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3541": {
+        "Image_ID": "8443.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3543": {
+        "Image_ID": "8445.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3549": {
+        "Image_ID": "8463.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3556": {
+        "Image_ID": "8465.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3565": {
+        "Image_ID": "8472.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "3568": {
+        "Image_ID": "8473.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "3570": {
+        "Image_ID": "8475.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "3583": {
+        "Image_ID": "8481.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3584": {
+        "Image_ID": "8481.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "3587": {
+        "Image_ID": "8482.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "3591": {
+        "Image_ID": "8483.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "3598": {
+        "Image_ID": "8484.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "3602": {
+        "Image_ID": "8485.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "3605": {
+        "Image_ID": "8485.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3609": {
+        "Image_ID": "8487.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3610": {
+        "Image_ID": "8487.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "3611": {
+        "Image_ID": "8488.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "3617": {
+        "Image_ID": "8490.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "3624": {
+        "Image_ID": "8491.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3627": {
+        "Image_ID": "8492.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "3631": {
+        "Image_ID": "8493.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "3638": {
+        "Image_ID": "8496.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3639": {
+        "Image_ID": "8496.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3642": {
+        "Image_ID": "8497.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3643": {
+        "Image_ID": "8497.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3647": {
+        "Image_ID": "8498.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3652": {
+        "Image_ID": "8500.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3664": {
+        "Image_ID": "8515.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3665": {
+        "Image_ID": "8515.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3676": {
+        "Image_ID": "8521.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3683": {
+        "Image_ID": "8526.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3689": {
+        "Image_ID": "8528.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3713": {
+        "Image_ID": "8560.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "3736": {
+        "Image_ID": "8774.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3740": {
+        "Image_ID": "8775.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3743": {
+        "Image_ID": "8777.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3749": {
+        "Image_ID": "8791.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3753": {
+        "Image_ID": "8791.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "3764": {
+        "Image_ID": "8805.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3767": {
+        "Image_ID": "8807.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3769": {
+        "Image_ID": "8809.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "3774": {
+        "Image_ID": "8816.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "3777": {
+        "Image_ID": "8817.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "3780": {
+        "Image_ID": "8818.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3783": {
+        "Image_ID": "8820.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "3789": {
+        "Image_ID": "8821.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "3793": {
+        "Image_ID": "8822.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "3796": {
+        "Image_ID": "8822.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3798": {
+        "Image_ID": "8823.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3802": {
+        "Image_ID": "8823.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "3803": {
+        "Image_ID": "8833.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "3807": {
+        "Image_ID": "8879.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3814": {
+        "Image_ID": "8895.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3820": {
+        "Image_ID": "8901.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3832": {
+        "Image_ID": "8907.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3834": {
+        "Image_ID": "8909.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3843": {
+        "Image_ID": "8914.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3847": {
+        "Image_ID": "8915.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3859": {
+        "Image_ID": "8921.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3862": {
+        "Image_ID": "8922.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3865": {
+        "Image_ID": "8923.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3870": {
+        "Image_ID": "8925.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3875": {
+        "Image_ID": "8927.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3876": {
+        "Image_ID": "8928.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3885": {
+        "Image_ID": "8932.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3895": {
+        "Image_ID": "8938.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3899": {
+        "Image_ID": "8940.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3902": {
+        "Image_ID": "8943.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3903": {
+        "Image_ID": "8943.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3905": {
+        "Image_ID": "8947.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3909": {
+        "Image_ID": "8947.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "3910": {
+        "Image_ID": "8951.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3912": {
+        "Image_ID": "8951.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "3915": {
+        "Image_ID": "8952.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "3923": {
+        "Image_ID": "8953.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3924": {
+        "Image_ID": "8953.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "3926": {
+        "Image_ID": "8955.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3927": {
+        "Image_ID": "8955.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3931": {
+        "Image_ID": "8956.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3933": {
+        "Image_ID": "8956.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3935": {
+        "Image_ID": "8957.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3938": {
+        "Image_ID": "8957.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3941": {
+        "Image_ID": "8958.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3943": {
+        "Image_ID": "8960.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3965": {
+        "Image_ID": "8969.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3968": {
+        "Image_ID": "8970.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3976": {
+        "Image_ID": "8971.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3981": {
+        "Image_ID": "8973.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "3982": {
+        "Image_ID": "8974.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "3986": {
+        "Image_ID": "8974.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "3989": {
+        "Image_ID": "8975.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "3993": {
+        "Image_ID": "8977.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "4007": {
+        "Image_ID": "8984.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "4027": {
+        "Image_ID": "8998.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4038": {
+        "Image_ID": "9008.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4041": {
+        "Image_ID": "9010.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4044": {
+        "Image_ID": "9011.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4047": {
+        "Image_ID": "9015.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "4051": {
+        "Image_ID": "9015.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4054": {
+        "Image_ID": "9017.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4055": {
+        "Image_ID": "9017.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "4057": {
+        "Image_ID": "9019.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4058": {
+        "Image_ID": "9019.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "4062": {
+        "Image_ID": "9022.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "4065": {
+        "Image_ID": "9022.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4070": {
+        "Image_ID": "9023.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "4073": {
+        "Image_ID": "9025.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4078": {
+        "Image_ID": "9027.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4085": {
+        "Image_ID": "9029.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4092": {
+        "Image_ID": "9033.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4095": {
+        "Image_ID": "9034.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4096": {
+        "Image_ID": "9036.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4100": {
+        "Image_ID": "9036.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "4105": {
+        "Image_ID": "9039.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "4109": {
+        "Image_ID": "9040.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "4110": {
+        "Image_ID": "9040.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4113": {
+        "Image_ID": "9043.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "4116": {
+        "Image_ID": "9047.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4118": {
+        "Image_ID": "9047.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "4122": {
+        "Image_ID": "9049.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "4129": {
+        "Image_ID": "9050.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "4134": {
+        "Image_ID": "9052.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4135": {
+        "Image_ID": "9052.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "4136": {
+        "Image_ID": "9053.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "4138": {
+        "Image_ID": "9053.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4143": {
+        "Image_ID": "9059.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "4147": {
+        "Image_ID": "9061.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "4151": {
+        "Image_ID": "9062.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4155": {
+        "Image_ID": "9062.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "4158": {
+        "Image_ID": "9063.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "4159": {
+        "Image_ID": "9063.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4161": {
+        "Image_ID": "9064.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "4165": {
+        "Image_ID": "9064.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4166": {
+        "Image_ID": "9065.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "4171": {
+        "Image_ID": "9066.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "4175": {
+        "Image_ID": "9066.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4177": {
+        "Image_ID": "9069.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "4180": {
+        "Image_ID": "9069.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4181": {
+        "Image_ID": "9070.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "4186": {
+        "Image_ID": "9071.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "4189": {
+        "Image_ID": "9071.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4191": {
+        "Image_ID": "9072.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4193": {
+        "Image_ID": "9072.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "4196": {
+        "Image_ID": "9073.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "4197": {
+        "Image_ID": "9073.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4204": {
+        "Image_ID": "9074.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "4206": {
+        "Image_ID": "9075.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "4210": {
+        "Image_ID": "9075.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4212": {
+        "Image_ID": "9076.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "4214": {
+        "Image_ID": "9076.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4216": {
+        "Image_ID": "9077.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4219": {
+        "Image_ID": "9077.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "4225": {
+        "Image_ID": "9078.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "4226": {
+        "Image_ID": "9079.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4230": {
+        "Image_ID": "9079.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "4233": {
+        "Image_ID": "9080.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4235": {
+        "Image_ID": "9081.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4238": {
+        "Image_ID": "9083.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4239": {
+        "Image_ID": "9083.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "4242": {
+        "Image_ID": "9084.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "4244": {
+        "Image_ID": "9084.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4248": {
+        "Image_ID": "9085.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "4249": {
+        "Image_ID": "9085.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4255": {
+        "Image_ID": "9086.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "4259": {
+        "Image_ID": "9087.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "4262": {
+        "Image_ID": "9088.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4263": {
+        "Image_ID": "9088.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "4267": {
+        "Image_ID": "9089.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "4274": {
+        "Image_ID": "9090.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4276": {
+        "Image_ID": "9090.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "4278": {
+        "Image_ID": "9091.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "4280": {
+        "Image_ID": "9091.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4282": {
+        "Image_ID": "9093.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "4289": {
+        "Image_ID": "9094.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "4296": {
+        "Image_ID": "9095.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "4298": {
+        "Image_ID": "9098.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "4303": {
+        "Image_ID": "9099.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "4309": {
+        "Image_ID": "9100.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 7,
+        "Question_Type": "Complex_Counting"
+    },
+    "4316": {
+        "Image_ID": "9101.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "4317": {
+        "Image_ID": "9103.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "4322": {
+        "Image_ID": "9104.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4326": {
+        "Image_ID": "9104.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 7,
+        "Question_Type": "Complex_Counting"
+    },
+    "4329": {
+        "Image_ID": "9105.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 7,
+        "Question_Type": "Complex_Counting"
+    },
+    "4333": {
+        "Image_ID": "9106.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "4334": {
+        "Image_ID": "9106.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4338": {
+        "Image_ID": "9108.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "4339": {
+        "Image_ID": "9108.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4346": {
+        "Image_ID": "9110.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "4349": {
+        "Image_ID": "9115.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "4353": {
+        "Image_ID": "9116.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "4360": {
+        "Image_ID": "9162.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4365": {
+        "Image_ID": "9278.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4370": {
+        "Image_ID": "9343.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 50,
+        "Question_Type": "Complex_Counting"
+    },
+    "4375": {
+        "Image_ID": "9345.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 42,
+        "Question_Type": "Complex_Counting"
+    },
+    "4379": {
+        "Image_ID": "9346.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 45,
+        "Question_Type": "Complex_Counting"
+    },
+    "4381": {
+        "Image_ID": "9346.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4387": {
+        "Image_ID": "9349.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 42,
+        "Question_Type": "Complex_Counting"
+    },
+    "4391": {
+        "Image_ID": "9351.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 46,
+        "Question_Type": "Complex_Counting"
+    },
+    "4394": {
+        "Image_ID": "9353.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4398": {
+        "Image_ID": "9353.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 36,
+        "Question_Type": "Complex_Counting"
+    },
+    "4403": {
+        "Image_ID": "9365.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 10,
+        "Question_Type": "Complex_Counting"
+    },
+    "4404": {
+        "Image_ID": "9366.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 8,
+        "Question_Type": "Complex_Counting"
+    },
+    "4407": {
+        "Image_ID": "9366.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4409": {
+        "Image_ID": "9459.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "4411": {
+        "Image_ID": "9459.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4417": {
+        "Image_ID": "9538.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "4424": {
+        "Image_ID": "9546.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "4425": {
+        "Image_ID": "9558.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "4426": {
+        "Image_ID": "9558.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4432": {
+        "Image_ID": "9722.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "4437": {
+        "Image_ID": "9723.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "4438": {
+        "Image_ID": "9723.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4441": {
+        "Image_ID": "9724.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 5,
+        "Question_Type": "Complex_Counting"
+    },
+    "4445": {
+        "Image_ID": "9724.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4450": {
+        "Image_ID": "9725.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 6,
+        "Question_Type": "Complex_Counting"
+    },
+    "4451": {
+        "Image_ID": "9795.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4452": {
+        "Image_ID": "9795.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "4457": {
+        "Image_ID": "9796.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4459": {
+        "Image_ID": "9796.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 4,
+        "Question_Type": "Complex_Counting"
+    },
+    "4462": {
+        "Image_ID": "9797.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    },
+    "4463": {
+        "Image_ID": "9797.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4467": {
+        "Image_ID": "9874.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4468": {
+        "Image_ID": "9874.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "4471": {
+        "Image_ID": "9875.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "4474": {
+        "Image_ID": "9876.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4478": {
+        "Image_ID": "9876.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 2,
+        "Question_Type": "Complex_Counting"
+    },
+    "4480": {
+        "Image_ID": "9877.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "4482": {
+        "Image_ID": "9877.JPG",
+        "Question": "Is the entire road non flooded?",
+        "Ground_Truth": "Yes",
+        "Question_Type": "Yes_No"
+    },
+    "4485": {
+        "Image_ID": "9879.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "4488": {
+        "Image_ID": "9880.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "4495": {
+        "Image_ID": "9892.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "4498": {
+        "Image_ID": "9894.JPG",
+        "Question": "How many buildings are non flooded in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "4504": {
+        "Image_ID": "9898.JPG",
+        "Question": "How many non flooded buildings can be seen in this image?",
+        "Ground_Truth": 1,
+        "Question_Type": "Complex_Counting"
+    },
+    "4508": {
+        "Image_ID": "9925.JPG",
+        "Question": "How many buildings are non flooded?",
+        "Ground_Truth": 3,
+        "Question_Type": "Complex_Counting"
+    }
+}

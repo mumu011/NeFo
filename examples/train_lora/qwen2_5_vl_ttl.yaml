@@ -1,0 +1,84 @@
+### model
+model_name_or_path: /mnt/nvme1/wj/Model/Qwen2.5-VL-7B-Instruct
+trust_remote_code: true
+
+### method
+stage: vl_ttl
+do_train: true
+do_predict: true
+finetuning_type: lora
+lora_target: q_proj,v_proj
+freeze_vision_tower: true
+disable_gradient_checkpointing: true
+
+
+### ttl parameters
+setting: online_ttl
+threshold: 3
+lamb: 0.1
+streaming_batch_size: 1
+
+### dataset
+dataset: MCQ_Merged_sub_negated
+eval_dataset: MCQ_Merged_negated
+image_dir: /mnt/nfs1/wj/gen_neg/Merged_MCQ_Dataset/images
+
+enable_negation_filtering: true
+negation_words:
+  - "no"
+  - "not"
+  - "without"
+  - "non"
+  - "none"
+  # - "absent"
+  # - "devoid"
+  # - "empty"
+  # - "free"
+  # - "freely"
+  # - "void"
+  # - "nobody"
+  # - "nothing"
+  # - "nowhere"
+  # - "lack"
+  # - "lacks"
+  # - "empty"
+
+template: qwen2_vl
+cutoff_len: 2048
+max_samples: 150
+overwrite_cache: true
+preprocessing_num_workers: 1
+
+
+### output
+output_dir: saves/qwen2_5vl-7b/vl_ttl/nefo_qwen2_5vl_sample_150
+
+logging_steps: 10
+save_steps: 500
+plot_loss: true
+overwrite_output_dir: true
+
+
+### train
+per_device_train_batch_size: 1
+gradient_accumulation_steps: 1
+learning_rate: 5.0e-4
+num_train_epochs: 1.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.0
+bf16: true
+fp16: false
+ddp_timeout: 180000000
+ddp_find_unused_parameters: true
+
+### eval
+do_eval: null
+
+### predict
+temperature: 0.0
+do_sample: false
+max_new_tokens: 512
+per_device_eval_batch_size: 1
+predict_with_generate: true
+
+report_to: none
