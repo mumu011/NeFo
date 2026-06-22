@@ -175,9 +175,10 @@ Thanks to the open-source code of [LLaMA-Factory](https://github.com/hiyouga/LLa
 If you find this work useful, please cite the related paper:
 
 ```bibtex
-@inproceedings{hutest,
-  title={Test-Time Learning for Large Language Models},
-  author={Hu, Jinwu and Zhang, Zitian and Chen, Guohao and Wen, Xutao and Shuai, Chao and Luo, Wei and Xiao, Bin and Li, Yuanqing and Tan, Mingkui},
-  booktitle={Forty-second International Conference on Machine Learning}
+@article{han2026evaluating,
+  title={Evaluating and Enhancing Negation Comprehension in Remote Sensing MLLMs},
+  author={Han, Haochen and Wang, Jue and Wang, Alex Jinpeng and Liu, Fangming},
+  journal={arXiv preprint arXiv:2606.20177},
+  year={2026}
 }
 ```
