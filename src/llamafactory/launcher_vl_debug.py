@@ -22,8 +22,8 @@ os.environ["MASTER_ADDR"] = "127.0.0.1"
 os.environ["MASTER_PORT"] = "12365"
 
 # 🔧 设置模型缓存路径，解决PyCharm环境变量问题
-os.environ["TRANSFORMERS_CACHE"] = "/home/hanhch/pretrained_models"
-os.environ["HF_HOME"] = "/home/hanhch/pretrained_models"
+# os.environ["TRANSFORMERS_CACHE"] = "/home/hanhch/pretrained_models"
+# os.environ["HF_HOME"] = "/home/hanhch/pretrained_models"
 os.environ["HF_HUB_OFFLINE"] = "1"  # 强制离线模式，不尝试网络下载
 os.environ["LOCAL_RANK"] = "0"
 os.environ["WORLD_SIZE"] = "1"
@@ -155,8 +155,8 @@ args_dict = {
     # 'setting': 'online_ttl_TLM',
     'threshold': 3,
     'lamb': 0.1,
-    'aug_entropy_weight': 0.0,  # weight for aug_entropy_loss: total_loss = -kl_prcp_loss + aug_entropy_loss * aug_entropy_weight
-    'use_sft_loss': True,       # 是否在online_ttl中加入ground_truth的SFT CE损失
+    'aug_entropy_weight': 0.3,  # weight for aug_entropy_loss: total_loss = -kl_prcp_loss + aug_entropy_loss * aug_entropy_weight
+    'use_sft_loss': False,       # 是否在online_ttl中加入ground_truth的SFT CE损失
     'sft_loss_weight': 0.01,      # SFT损失权重: total_loss = ttl_loss + sft_loss_weight * sft_loss
     'streaming_batch_size': 1,
 
@@ -206,7 +206,8 @@ args_dict = {
     # 'output_dir': 'saves/qwen2_5vl-7b-scaling-data/vl_ttl/tent_qwen2_5vl_sample_100',
     # 'output_dir': 'saves/qwen2_5vl-7b-scaling-data/vl_ttl/sar_qwen2_5vl_sample_100',
     # 'output_dir': 'saves/qwen2_5vl-7b-scaling-data/vl_ttl/tlm_qwen2_5vl_sample_100',
-    'output_dir': 'saves/qwen2_5vl-7b-scaling-data/vl_ttl/nefo_sft_qwen2_5vl_sample_100',
+    # 'output_dir': 'saves/qwen2_5vl-7b-scaling-data/vl_ttl/nefo_sft_qwen2_5vl_sample_100',
+    'output_dir': 'saves/qwen2_5vl-7b/vl_ttl/nefo_qwen2_5vl_sample_150',
     # 'output_dir': 'saves/qwen3vl-8b/vl_ttl/VQA_Merged_sub_lamb_0.1-threshold_3-lr_5e-5-seed_42_system_prompt_qwen',
     # 'output_dir': 'saves/qwen3vl-8b/vl_ttl/MCQ_Merged_sub_lamb_0.1-threshold_3-lr_5e-4-seed_42_system_prompt_qwen',
     # 'output_dir': 'saves/georeason/vl_ttl/VQA_Merged_sub_lamb_0.1-threshold_3-lr_5e-5-seed_42_system_prompt_qwen',

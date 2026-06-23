@@ -12,9 +12,10 @@ Haochen Han, Jue Wang, Alex Jinpeng Wang, Fangming Liu<br>
 
 This repository contains the NeFo codebase for evaluating and improving negation comprehension in remote sensing multimodal large language models. It is built on top of LLaMA-Factory and adds VL test-time learning, negation-aware dataset definitions, model inference scripts, and evaluation scripts for VQA, MCQ, referring expression grounding, FloodNet, and scene classification.
 
-## Benchmarks
+## Benchmarks and Model
 
-- Benchmarks：https://huggingface.co/datasets/mumu-0011/RS-Neg
+- Benchmarks: https://huggingface.co/datasets/mumu-0011/RS-Neg
+- Model adapter: https://huggingface.co/mumu-0011/NeFo
 
 ## Repository Structure
 
