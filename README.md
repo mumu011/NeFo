@@ -4,7 +4,7 @@ Evaluating and Enhancing Negation Comprehension in Remote Sensing MLLMs
 
 
 <p align="center">
-Haochen Han, Jue Wang, Alex Jinpeng Wang, Xutao Wen, Fangming Liu<br>
+Haochen Han, Jue Wang, Alex Jinpeng Wang, Fangming Liu<br>
 <sub>Peng Cheng Laboratory, Tsinghua University, Central South University</sub>
 </p>
 
